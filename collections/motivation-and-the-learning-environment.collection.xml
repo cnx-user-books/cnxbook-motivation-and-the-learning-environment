@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Daniel Williamson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11415</md:content-id>
-  <md:title>Motivation and the Learning Environment</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>55bbb045-df8f-4332-b41e-807b1e2fdb6c</md:uuid>
-<md:slug>motivation-and-the-learning-environment</md:slug>
-</metadata>
-
+    <md:content-id>col11415</md:content-id>
+    <md:title>Motivation and the Learning Environment</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>55bbb045-df8f-4332-b41e-807b1e2fdb6c</md:uuid>
+    <md:slug>motivation-and-the-learning-environment</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m43358"/>
-        
-      
-    
-    
-      <col:module document="m43360"/>
-        
-      
-    
-    
-      <col:module document="m43362"/>
-        
-      
-    
-    
-      <col:module document="m43361"/>
-        
-      
-    
-    
-      <col:module document="m43363"/>
-        
-      
-    
-    
-      <col:module document="m43357"/>
-        
-      
-    
+    <col:module document="m43358"/>
+    <col:module document="m43360"/>
+    <col:module document="m43362"/>
+    <col:module document="m43361"/>
+    <col:module document="m43363"/>
+    <col:module document="m43357"/>
   </col:content>
 </col:collection>
